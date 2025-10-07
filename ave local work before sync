@@ -1,0 +1,11 @@
+[33m3222e82[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: commit: {week two assignment}
+[33m5ec8ffb[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{1}: commit: Update project
+[33m9397437[m HEAD@{2}: Branch: renamed refs/heads/main to refs/heads/main
+[33m9397437[m HEAD@{4}: commit: first commit
+[33m89ca92f[m HEAD@{5}: Branch: renamed refs/heads/main to refs/heads/main
+[33m89ca92f[m HEAD@{7}: commit: first commit
+[33mf3660b2[m HEAD@{8}: Branch: renamed refs/heads/main to refs/heads/main
+[33mf3660b2[m HEAD@{10}: Branch: renamed refs/heads/main to refs/heads/main
+[33mf3660b2[m HEAD@{12}: Branch: renamed refs/heads/main to refs/heads/main
+[33mf3660b2[m HEAD@{14}: Branch: renamed refs/heads/master to refs/heads/main
+[33mf3660b2[m HEAD@{16}: commit (initial): Add Chapter 1 Linear Regression project notebook
